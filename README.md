@@ -1,6 +1,6 @@
 # 이스터에그- 마케팅 업체 매칭 플랫폼
 
-<img src="images/docs/앱아이콘.png" width="400" height="400" alt="프로젝트 스크린샷" align="right"/>
+<img src="docs/앱아이콘.png" width="400" height="400" alt="프로젝트 스크린샷" align="right"/>
 
 
 ### 프로젝트 소개
@@ -48,7 +48,7 @@
 
 <br>
 
-<img src="images/docs/app_pages.png" width="80%" alt="프로젝트 스크린샷"/>
+<img src="docs/app_pages.png" width="80%" alt="프로젝트 스크린샷"/>
 
 ---
 
